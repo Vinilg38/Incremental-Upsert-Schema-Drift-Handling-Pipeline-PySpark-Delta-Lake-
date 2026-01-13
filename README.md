@@ -168,11 +168,3 @@ spark.conf.set("spark.databricks.delta.schema.autoMerge.enabled", "true")
 
 All logic implemented here is batch-mode safe and does not rely on enterprise-only features.
 
-
-
-📌 A diagram (SVG/PNG)
-📌 A dbt version of this pipeline
-📌 A more realistic dataset
-📌 A version with unit tests
-
-Just tell me!
