@@ -1,4 +1,14 @@
-📦 Delta Lake Incremental Upsert + Schema Drift + Late Arrival Handling
+<h1 align="center">🚀 Delta Lake Medallion Pipeline</h1>
+
+<p align="center">
+  <b>Schema Drift • Late-Arriving Data • Incremental MERGE • PySpark • Databricks Free Edition</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-Free%20Edition-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-2.0+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PySpark-3.5-green?style=for-the-badge" />
+</p>
 
 A PySpark + Delta Lake pipeline built on Databricks Free Edition
 
